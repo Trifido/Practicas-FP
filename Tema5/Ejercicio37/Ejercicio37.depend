@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1351686646 source:c:\users\vicente\desktop\informatica\ugr\2g\1ºcuatrimestre\fp\practicas\tema5\ejercicio37\solucion37.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
